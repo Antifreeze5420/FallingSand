@@ -1,2 +1,2 @@
 # FallingSand
-A (somewhat realistic) sand and other things simulator. Made in Swing.
+ASMR physics simulators are everywhere. Why not make my own? Physics? Not a concern. Admittedly not very realistic, but still the same mindless game that you can expect. This has a variety of different blocks ranging from smoke, water, sand, stone and others. 
